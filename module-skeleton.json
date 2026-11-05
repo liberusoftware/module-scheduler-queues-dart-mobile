@@ -1,0 +1,25 @@
+{
+  "repository": "module-scheduler-queues-dart-mobile",
+  "capabilityKey": "liberusoftware/scheduler-queues",
+  "presentation": "dart-mobile",
+  "package": "module_scheduler_queues_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/boilerplate/nextjs/scheduler-queues.md",
+  "presentationPlan": "projects/boilerplate/features/scheduler-queues.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
